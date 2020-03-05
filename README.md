@@ -12,7 +12,8 @@ The offical app is available to windows and mac, I am a linux user and I love li
  You can also search in Unity Search if you're on Ubuntu
  Go here to find your app [chrome://apps/](chrome://apps/)
 
-
+### YOU CAN ONLY LOGIN WITH EMAIL
+### IF YOU USE GMAIL LOGIN, JUST ENTER YOUR EMAIL AND THEY WILL SEND YOU A TEMP CODE TO LOGIN (Props to Devs on this).
 
 #### This is not a reverse engineered project but just a shortcut to launch the app 
 ##I AM NOT RELATED TO THE COMPANY AND THIS IS TOTALLY UNOFFICIAL 
